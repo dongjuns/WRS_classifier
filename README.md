@@ -5,8 +5,8 @@ Firstly, I made a simulation environment using Blender.
 - The difference of between them is the existence of the motor pulley
 And it is exported and then used with Rasmus's synth-ml randomization tool.
 
-1. Camera information: focal length 8.5mm, sensor width size 9.2mm
-2. The motor pully is located on the motor, and it has some range, -1 mm < x < +1 mm.
+(1) Camera information: focal length 8.5mm, sensor width size 9.2mm   
+(2)The motor pully is located on the motor, and it has some range, -1 mm < x < +1 mm.
 
 Training samples: 1200 wrs images with motor pulley, 1200 wrs images without motor pulley
 1200 samples: 600 images with noise + 600 images without noise
